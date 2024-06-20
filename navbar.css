@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Poppins:wght@700&display=swap');
+
+/* Navbar */
+#title {
+     font-family: "Poppins", sans-serif;
+     color: #1f1f1f;
+}
+.navbar {
+     padding: 0 0 4.5rem;
+}
+.navbar-brand {
+     font-family: "Montserrat", sans-serif;
+     font-weight: bold;
+     font-size: 2.5rem;
+}
+.nav-item {
+     padding: 0 18px;
+}
+.nav-link {
+     font-size: 1.2rem;
+     font-family: "Poppins";
+     font-weight: bold;
+}
